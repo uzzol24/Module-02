@@ -20,8 +20,25 @@
  
 ?>
 
+<!-- Deta type -->
+
+ 
+    <!-- 1. String - text/number/space/sign -> "I love Bangladesh too much"
+    2. Integer - 1,2,3,500
+    3. Float - 5.5/55.5
+    4. Boolean - True/ False (0/1)
+    5. array - array("name/" "email" , "number")
+    6. object 
+    7. null  -->
+
+<!-- Deta type -->
 
 
+<?php
+ 
+echo var_dump($name) // How to indentify a deta type
+
+?>
 
 
 
