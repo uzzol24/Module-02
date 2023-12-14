@@ -20,6 +20,12 @@
  
 ?>
 
+
+<?php
+ 
+
+?>
+
 <!-- Deta type -->
 
  
@@ -36,9 +42,13 @@
 
 <?php
  
-echo var_dump($name) // How to indentify a deta type
+    echo var_dump($name)  (If you indentify a deta type type this code)
+    echo strlen($name)
+    echo str_word_count($name) (If you count word type this code)
+    echo strrev($email)
 
 ?>
+
 
 
 
