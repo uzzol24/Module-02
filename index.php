@@ -11,12 +11,15 @@
 
 <?php
  
- echo $name = "ujjal";
- echo $Name = "Uzzol";
+ echo $name = "ujjal Banik";
+ echo $Name = "Uzzol Datta";
+ echo $email = "info@gmail.com";
+ echo $number = "+880 1234 5678";
 
- echo $name;
+ echo $name , "<br>" , $Name , "<br>" , $email , "<br>" , $number;
  
 ?>
+
 
 
 
