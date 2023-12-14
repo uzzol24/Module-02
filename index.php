@@ -20,25 +20,17 @@
  
 ?>
 
+<!-- =================================== -->
+Deta type
 
-<?php
- 
-
-?>
-
-<!-- Deta type -->
-
- 
-    <!-- 1. String - text/number/space/sign -> "I love Bangladesh too much"
+    1. String - text/number/space/sign -> "I love Bangladesh too much"
     2. Integer - 1,2,3,500
     3. Float - 5.5/55.5
     4. Boolean - True/ False (0/1)
     5. array - array("name/" "email" , "number")
     6. object 
-    7. null  -->
-
-<!-- Deta type -->
-
+    7. null 
+<!-- =================================== -->
 
 <?php
  
@@ -50,6 +42,19 @@
 ?>
 
 
+<!-- =================================== -->
+
+PHP Operators
+
+1. Arithetic Operators. (+,-,*, /, **)
+2. Assignment Operators ( =, +=, -=, *=, /=, %=)
+3. Logical Operators. ( &&, ||, !, )
+4. Comparision Operators. ( ==, ===, !==, <, >, >=, <= )
+5. String Operators ( . , .= )
+6. Array Operators. ( +, ==, ===, <>, !==,  )
+7. Update Operators. (Increment / Decrement) (++, --, +=,)
+
+<!-- =================================== -->
 
 
 </body>
