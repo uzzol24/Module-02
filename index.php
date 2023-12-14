@@ -8,6 +8,7 @@
 <body>
     
 <h2>Ujjal Banik</h2>
+<H1>$Name</H1>
 
 <?php
  
