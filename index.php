@@ -34,9 +34,9 @@ Deta type
 
 <?php
  
-    echo var_dump($name)  (If you indentify a deta type type this code)
-    echo strlen($name)
-    echo str_word_count($name) (If you count word type this code)
+    echo var_dump($name)  (If you indentify a deta type type this code);
+    echo strlen($name);
+    echo str_word_count($name) (If you count word type this code);
     echo strrev($email)
 
 ?>
@@ -55,6 +55,35 @@ PHP Operators
 7. Update Operators. (Increment / Decrement) (++, --, +=,)
 
 <!-- =================================== -->
+
+
+
+<!-- If & Else statement  -->
+
+<?php
+
+$username = "Ujjal";
+$password = "1234";
+
+if ( $username == "Ujjal") {
+
+    if ( $password == "1234"){
+
+        echo "welcome" , $username;
+
+    }
+
+    else{
+        echo "Password is worng";
+    }
+    
+}
+
+else{
+    echo "username is not match";
+}
+?>
+
 
 
 </body>
